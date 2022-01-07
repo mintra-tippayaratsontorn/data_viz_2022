@@ -4,4 +4,5 @@ Introduction to Basic Programming for Data Science and Data Visualization : р╕бр
 
 * [introduction](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Intro0.ipynb)
 * [Python101](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Python101.ipynb)
-* [Data_Structure](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Data_Structure.ipynb)
+* [Data Structure](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Data_Structure.ipynb)
+* [Basic Programming Concepts](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Basic_Programming_Concepts.ipynb)
