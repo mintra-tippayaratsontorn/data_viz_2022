@@ -88,3 +88,15 @@ Introduction to Basic Programming for Data Science and Data Visualization : ม�
     * .describe() คำนวณค่าทางสถิติของข้อมูลที่เป็นตัวเลข
     * .mean() คำนวณค่าเฉลี่ยของข้อมูลโดยไม่สนใจ missing
     * .isnull() ตรวสอบค่า missing
+
+* [Pandas102](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Pandas102.ipynb)
+  * ต่อตาราง
+    * ต่อแกน Y
+    * ต่อแกน X
+  * Save Table
+  * Groupby
+  * Create Pandas table
+    * Dictionary (row oriented)
+    * List (row oriented)
+    * Dictionary (column orientrd)
+    * List (column orientrd)
