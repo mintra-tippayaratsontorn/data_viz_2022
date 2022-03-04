@@ -100,3 +100,41 @@ Introduction to Basic Programming for Data Science and Data Visualization : ม�
     * List (row oriented)
     * Dictionary (column orientrd)
     * List (column orientrd)
+
+* [DataViz01_Table_Data](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/DataViz01_Table_Data.ipynb)
+  * Parallel Coordinates
+    * select column
+    * change color
+    * Specify color by colormap
+    * Matplotlib
+      * Heatmap matrix
+      * Subplot
+
+* [DataViz011_Show_Thai_Language_in_Graph](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/DataViz011_Show_Thai_Language_in_Graph.ipynb)
+  * plot กราฟเป็นภาษาไทย
+
+* [DataViz02_Data_Distribution](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/DataViz02_Data_Distribution.ipynb)
+  * Import Data
+  * Scatter Plot
+    * เปลี่ยนสี
+    * ระบุสีให้แต่ละจุด
+    * เพิ่มรายละเอียดกราฟ (ชื่อแกน/ชื่อ marker/ชื่อกราฟ)
+    * ใช้ขนาดของ marker ในการแสดงค่าใน column
+    * ปรับความโปร่งใสของ marker เพื่อให้มองเห็นจุดที่บัง (Bubble Chart)
+    * เปลี่ยนหน้าตาของ marker เพื่อความสวยงาม
+    * แสดงแบบ 3 มิติ
+  * Boxplot
+  * Violin plot
+
+* [DataViz03_Data_Distribution_(PCA)](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/DataViz03_Data_Distribution_(PCA).ipynb)
+  * load data
+  * ดูการกระจายของข้อมูลในตารางแบบคร่าวๆ
+  * เริ่มทำ PCA
+  * plot PCA
+
+* [DataViz04_Data_Comparison](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/DataViz04_Data_Comparison.ipynb)
+  * เปรียบเทียบข้อมูลด้วย coordinate plot
+    * การใช้ plt.plot
+
+# ข้อสอบ
+* [BasicPython&DataViz_midterm2022](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
