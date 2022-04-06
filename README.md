@@ -1,6 +1,15 @@
 # data_viz_2022
 Introduction to Basic Programming for Data Science and Data Visualization : มินตรา ทิพยรัตน์สุนทร ID 623020041-2
 
+
+# Exam
+* [midterm](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
+
+* [Project](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
+  * [Dashboard](https://datastudio.google.com/reporting/ccc6501a-2003-44b7-bead-2e13730f3983)
+  * [Present](https://www.canva.com/design/DAE75VGQkIU/pV528FS-2Kc4RgLz6GPD4g/edit?utm_content=DAE75VGQkIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
+
 # สารบัญเนื้อหา
 * [introduction](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Intro0.ipynb)
 * [Python101](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Python101.ipynb)
@@ -135,6 +144,11 @@ Introduction to Basic Programming for Data Science and Data Visualization : ม�
 * [DataViz04_Data_Comparison](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/DataViz04_Data_Comparison.ipynb)
   * เปรียบเทียบข้อมูลด้วย coordinate plot
     * การใช้ plt.plot
-
-# ข้อสอบ
-* [BasicPython&DataViz_midterm2022](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
+  * Bar chart
+    * เปรียบเทียบปริมาณ 1 ปริมาณของ object หลาย class
+    * เปรียบเทียบปริมาณมากกว่า 1 ปริมาณของ object หลาย class
+    * การนำปริมาณหลายปริมาณมาซ้อนกัน
+    * Bar chart แบบตะแคงข้าง
+  * Histogram
+  * Tree map
+  * Spyder (radar) Chart
