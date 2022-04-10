@@ -1,14 +1,36 @@
 # data_viz_2022
-Introduction to Basic Programming for Data Science and Data Visualization : มินตรา ทิพยรัตน์สุนทร ID 623020041-2
+#### Basic Programming for Data Science and Data Visualization : มินตรา ทิพยรัตน์สุนทร ID 623020041-2
 
 
-# Exam
-* [midterm](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
+## Midterm กลุ่ม ลูกชุบ
+#### รายชื่อสมาชิก
+| รหัสนักศึกษา | ชื่อ-สกุล | สาขา |
+| ----------- | ----------- |----------- |
+| 623020041-2 | นางสาวมินตรา ทิพยรัตน์สุนทร | SC-SI |
+| 623020520-0 | นางสาวฐิติชญา ไกรวงค์ | SC-SI |
+| 623020539-9 | นางสาวศศิกานต์ บุญมี | SC-SI |
+* [Midterm](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
 
+## Final กลุ่ม alphabetical
+#### รายชื่อสมาชิก
+| รหัสนักศึกษา | ชื่อ-สกุล | สาขา |
+| ----------- | ----------- |----------- |
+| 623020041-2 | นางสาวมินตรา ทิพยรัตน์สุนทร | SC-SI |
+| 623020765-0 | นายศิริวัฒน์ ภูลำสัตย์ | SC-SI |
+| 623021001-9 | นางสาวนริศรา ชัยฤทธิ์ | SC-STAT |
+* [Data pre-processing](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/FinalExam_DataViz.ipynb)
+* [Dash Board](https://datastudio.google.com/u/1/reporting/2e5e6fec-b0f3-4862-ba0c-be48787ec82d/page/XwDqC)
+
+## Project กลุ่ม ไดฟุกุ
+#### รายชื่อสมาชิก
+| รหัสนักศึกษา | ชื่อ-สกุล | สาขา |
+| ----------- | ----------- |----------- |
+| 623020041-2 | นางสาวมินตรา ทิพยรัตน์สุนทร | SC-SI |
+| 623020513-7 | นางสาวกัลยารัตน์ แสนสมบัติ | SC-SI |
+| 623020519-5 | นายช่วงชัย จันทร์มณี | SC-SI |
 * [Project](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/BasicPython%26DataViz_midterm2022.ipynb)
-  * [Dashboard](https://datastudio.google.com/reporting/ccc6501a-2003-44b7-bead-2e13730f3983)
-  * [Present](https://www.canva.com/design/DAE75VGQkIU/pV528FS-2Kc4RgLz6GPD4g/edit?utm_content=DAE75VGQkIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
+* [Dashboard](https://datastudio.google.com/reporting/ccc6501a-2003-44b7-bead-2e13730f3983)
+* [Present](https://www.canva.com/design/DAE75VGQkIU/pV528FS-2Kc4RgLz6GPD4g/edit?utm_content=DAE75VGQkIU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 # สารบัญเนื้อหา
 * [introduction](https://github.com/mintra-tippayaratsontorn/data_viz_2022/blob/main/Intro0.ipynb)
